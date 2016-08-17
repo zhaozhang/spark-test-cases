@@ -1,6 +1,6 @@
 /*
  * This case is to test the RDD cost implementation	
- * This case covers ZippedPartitionsRDD
+ * This case covers ZippedPartitionsRDD2
  */
 
 sc.setLogLevel("INFO")
